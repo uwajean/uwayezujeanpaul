@@ -48,6 +48,8 @@ PHP, JavaScript, React, Node.js, Flutter, Networking and Databases.
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Computer Networking](https://img.shields.io/badge/Networking-00599C?style=for-the-badge)
 ![Cybersecurity Basics](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge)
+![Computer Maintenance](https://img.shields.io/badge/Maintenance-FFA500?style=for-the-badge)
+![Computer Troubleshooting](https://img.shields.io/badge/Troubleshooting-FF4500?style=for-the-badge)
 ![Computer Repair](https://img.shields.io/badge/Repair-FF5733?style=for-the-badge)
 ![CCTV Installation](https://img.shields.io/badge/CCTV-008080?style=for-the-badge)
 
