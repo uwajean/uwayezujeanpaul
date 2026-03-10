@@ -1,32 +1,32 @@
-# Muraho 👋, nitwa Uwayezu Jeanpaul
+# Hi 👋, I'm Uwayezu Jeanpaul
 
-### Umunyeshuri urangije IT | Umukora Porogaramu za Web na Mobile | Ukunda Networking & Cybersecurity
+### IT Graduate | Web & Mobile Developer | Networking & Cybersecurity Enthusiast
 
-🔭 Ubu ndi gukora kuri  
-**Personal Finance Tracker (Offline)** – porogaramu igufasha gukurikirana amafaranga yinjira n’asohoka utiriwe ukoresha internet.
+🔭 I’m currently working on  
+**Personal Finance Tracker (Offline)** – a mobile application that helps users track income and expenses without internet access.
 
-🌱 Ubu ndi kwiga  
-**Flutter Mobile Development** na **Cybersecurity**
+🌱 I’m currently learning  
+**Flutter Mobile Development** and **Cybersecurity**
 
-💬 Ushobora kumbaza kuri  
-PHP, JavaScript, React, Node.js, Flutter, Networking na Databases.
+💬 Ask me about  
+**PHP, JavaScript, React, Node.js, Flutter, Networking, and Databases**
 
 ---
 
-## 👨‍💻 Imishinga Yanjye
+## 👨‍💻 My Projects
 
-- **AfricanDa Villagers Tours – Urubuga rwa Travel**  
-  https://africandavillagerstours.com/
+- **AfricanDa Villagers Tours – Travel Website**  
+  [https://africandavillagerstours.com](https://africandavillagerstours.com)
 
-- **QuickChance – Porogaramu ya Mobile**  
-  Porogaramu igamije guhuza abantu n’amahirwe yihuse *(iri gukorwa)*
+- **QuickChance – Mobile Application**  
+  A mobile application designed to connect users with quick opportunities *(currently under development)*
 
 - **Personal Finance Tracker (Offline)**  
-  Porogaramu igufasha gukurikirana amafaranga ukoresha buri munsi.
+  A concept application for tracking personal financial transactions offline
 
 ---
 
-## 🛠️ Ubumenyi n’Ubushobozi
+## 🛠️ Skills & Technologies
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -42,25 +42,47 @@ PHP, JavaScript, React, Node.js, Flutter, Networking na Databases.
 
 ## 📊 GitHub Stats
 
-![Jeanpaul's GitHub stats](https://github-readme-stats.vercel.app/api?username=uwayezujeanpaul&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uwayezujeanpaul&layout=compact&theme=tokyonight)
+![Jeanpaul's GitHub stats](https://github-readme-stats.vercel.app/api?username=uwajean&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uwajean&layout=compact&theme=tokyonight)
 
 ---
 
-## 📫 Uburyo bwo Kumbona
+## 🔥 GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=uwajean&theme=tokyonight)
+
+## 🐍 GitHub Contribution Snake
+![Snake animation](https://raw.githubusercontent.com/uwajean/uwayezujeanpaul/output/github-contribution-grid-snake.svg)
+
+---
+
+## 📫 Contact Me
 
 - **Email:** jeanpaul.uwayezu01@gmail.com  
-- **Telefone:** +250 787 859 915  
+- **Phone:** +250 787 859 915  
 
 ---
 
 ## 📄 Experience
 
-- Internship kuri **MINEDUC Rwanda (2023)**  
-- Internship kuri **Huye Hanga Hub Innovation Center (2025)**  
+- Internship at **MINEDUC Rwanda (2023)**  
+- Internship at **Huye Hanga Hub Innovation Center (2025)**  
 
 ---
 
-⚡ **Fun fact**  
-Nkunda gukora ibisubizo by’ikoranabuhanga bifasha abantu mu buzima bwa buri munsi no gukomeza kwiga ikoranabuhanga rishya.
+⚡ **Fun Fact**  
+I enjoy building real-world technology solutions and continuously learning new technologies.
+
+---
+
+✅ This profile now includes:
+
+- 👀 Visitor counter  
+- 🏆 GitHub trophies  
+- 📊 GitHub stats  
+- 🔥 GitHub streak  
+- 🐍 Snake animation  
+- Professional skill badges  
+- Projects, experience, and contact info
+
+💡 **Important:**  
+Make sure your GitHub username is correct (`uwajean`) in all badges and workflow files so Snake animation works properly.
