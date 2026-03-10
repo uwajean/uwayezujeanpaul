@@ -46,7 +46,7 @@
 ## 📫 How to reach me
 
 - **Email:** jeanpaul.uwayezu01@gmail.com  
-- **Phone:** +250 787 859 915
+- **Phone:** +250 787 859 915/+250 734 078 257
 
 ---
 
