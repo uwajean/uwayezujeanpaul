@@ -72,17 +72,3 @@
 ⚡ **Fun Fact**  
 I enjoy building real-world technology solutions and continuously learning new technologies.
 
----
-
-✅ This profile now includes:
-
-- 👀 Visitor counter  
-- 🏆 GitHub trophies  
-- 📊 GitHub stats  
-- 🔥 GitHub streak  
-- 🐍 Snake animation  
-- Professional skill badges  
-- Projects, experience, and contact info
-
-💡 **Important:**  
-Make sure your GitHub username is correct (`uwajean`) in all badges and workflow files so Snake animation works properly.
