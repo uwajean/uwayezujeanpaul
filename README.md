@@ -52,8 +52,8 @@
 
 ## 📄 Experience
 
-- Internship at **MINEDUC Rwanda (2023)**  
-- Internship at **Huye Hanga Hub Innovation Center (2025)**
+- Internship at **MINEDUC(Ministry of Education) Rwanda (2023)**  
+- Internship at **Huye Innovation Hub (2025)**
 
 ---
 
