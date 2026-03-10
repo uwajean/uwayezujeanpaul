@@ -9,7 +9,7 @@
 Flutter Mobile Development and Cybersecurity.
 
 💬 Ask me about  
-PHP, JavaScript, React, Node.js, Flutter, Networking and Databases.
+PHP, JavaScript, React, Node.js, Flutter, Networking and Databases. 
 
 ---
 
@@ -56,9 +56,10 @@ PHP, JavaScript, React, Node.js, Flutter, Networking and Databases.
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=uwajean&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uwajean&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=uwajean&show_icons=true&count_private=true&theme=tokyonight&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uwajean&layout=compact&theme=tokyonight&hide_border=false&langs_count=8)
 
 ---
 
