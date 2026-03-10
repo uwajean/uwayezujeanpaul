@@ -54,10 +54,9 @@ PHP, JavaScript, React, Node.js, Flutter, Networking and Databases.
 ![CCTV Installation](https://img.shields.io/badge/CCTV-008080?style=for-the-badge)
 
 ---
-
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=uwajean&show_icons=true&count_private=true&theme=tokyonight&hide_border=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=uwajean&show_icons=true&theme=tokyonight&hide_border=false)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uwajean&layout=compact&theme=tokyonight&hide_border=false&langs_count=8)
 
@@ -69,7 +68,7 @@ PHP, JavaScript, React, Node.js, Flutter, Networking and Databases.
 ---
 
 ## 🐍 GitHub Contribution Snake
-![snake gif](https://github.com/uwajean/uwayezujeanpaul/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/uwajean/uwayezujeanpaul/output/github-contribution-grid-snake.svg)
 
 ---
 
