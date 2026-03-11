@@ -1,6 +1,6 @@
 # Hi 👋, I'm Uwayezu Jeanpaul
 
-![Profile Views](https://komarev.com/ghpvc/?username=uwajean\&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=uwajean&color=blue)
 
 ### Full-Stack Developer | Networking & Cybersecurity Enthusiast | IT Support & Hardware Specialist
 
@@ -27,6 +27,9 @@
 ---
 
 ## 👨‍💻 Featured Projects
+
+<details>
+<summary>Click to view my projects</summary>
 
 ### 🌍 AfricanDa Villagers Tours
 
@@ -66,9 +69,14 @@ A privacy-focused mobile application for tracking personal income and expenses o
 * Flutter
 * Hive Database
 
+</details>
+
 ---
 
 ## 🛠️ Technical Skills
+
+<details>
+<summary>Click to view my technical skills</summary>
 
 ### 💻 Software Development
 
@@ -105,41 +113,63 @@ A privacy-focused mobile application for tracking personal income and expenses o
 * Postman
 * Android Studio
 
+</details>
+
 ---
 
 ## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=uwajean\&show_icons=true\&theme=tokyonight)
+<details>
+<summary>Click to view my GitHub stats</summary>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uwajean\&layout=compact\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=uwajean&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uwajean&layout=compact&theme=tokyonight)
+
+</details>
 
 ---
 
 ## 🐍 GitHub Contribution Snake
 
+<details>
+<summary>Click to view contribution animation</summary>
+
 ![snake gif](https://raw.githubusercontent.com/uwajean/uwayezujeanpaul/output/github-contribution-grid-snake.svg)
+
+</details>
 
 ---
 
 ## 📄 Professional Experience
 
-**Intern – Huye Innovation hub**
+<details>
+<summary>Click to view my professional experience</summary>
+
+**Intern – Huye Innovation hub**  
 📍 Huye, Rwanda | 2025
 
-**Intern – Ministry of Education (MINEDUC)**
+**Intern – Ministry of Education (MINEDUC)**  
 📍 Rwanda | 2023
+
+</details>
 
 ---
 
 ## 🎓 Education
 
-**Advanced Diploma in Information Technology**
-RP Huye (IPRC Huye)
+<details>
+<summary>Click to view my education</summary>
+
+**Advanced Diploma in Information Technology**  
+RP Huye (IPRC Huye)  
 2022 – 2025
 
-**Advanced Level – Software Development**
-Groupe Scolaire des Parents(Rwanda,sourthen province,huye district)
+**Advanced Level – Software Development**  
+Groupe Scolaire des Parents (Rwanda, Southern Province, Huye District)  
 2019 – 2022
+
+</details>
 
 ---
 
