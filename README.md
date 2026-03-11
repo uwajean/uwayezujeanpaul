@@ -1,80 +1,147 @@
 # Hi 👋, I'm Uwayezu Jeanpaul
 
-### Full-Stack Developer | Network & Cybersec Engineer | Hardware Specialist | Digital Strategist
+![Profile Views](https://komarev.com/ghpvc/?username=uwajean\&color=blue)
 
-> [!TIP]
-> **💼 Currently Open to Work:** Seeking Internship or Junior Developer roles in Software Development, Networking, or Cybersecurity.
+### Full-Stack Developer | Networking & Cybersecurity Enthusiast | IT Support & Hardware Specialist
+
+> 💼 **Open to Opportunities:**
+> I am currently seeking **internship or entry-level opportunities** in **Software Development, Networking, Cybersecurity, or IT Support**. I am eager to apply my technical skills, contribute to real-world projects, and continue learning emerging technologies in the IT field.
 
 ---
 
-## 🌐 Connect & Portfolio
-- **🔗 LinkedIn:** [linkedin.com/in/uwayezu-jeanpaul](https://linkedin.com/in/your-profile-link)
-- **🌐 Portfolio:** [uwajean.github.io](https://uwajean.github.io)
-- **📧 Email:** jeanpaul.uwayezu01@gmail.com
-- **📞 Phone:** +250 787 859 915
+## 🌐 Connect With Me
+
+* **🔗 LinkedIn:** https://linkedin.com/in/uwayezu-jeanpaul
+* **🌐 Portfolio:** https://uwajean.github.io
+* **📧 Email:** [jeanpaul.uwayezu01@gmail.com](mailto:jeanpaul.uwayezu01@gmail.com)
+* **📞 Phone:** +250 787 859 915
+
+---
+
+## 🚀 Currently Working On
+
+* 📱 **QuickChance Mobile Application**
+* 💰 **Personal Finance Tracker (Offline)**
+* 🔐 **Cybersecurity & Networking Lab Projects**
 
 ---
 
 ## 👨‍💻 Featured Projects
 
-### 🌍 [AfricanDa Villagers Tours](https://africandavillagerstours.com/) 
-**Travel & Tourism Platform**
-- **Description:** A comprehensive web solution for local tourism, featuring interactive tour packages and booking capabilities. Built to showcase Rwanda's cultural heritage to international visitors.
-- **Tech Stack:** PHP, MySQL, JavaScript, SEO Optimization.
+### 🌍 AfricanDa Villagers Tours
 
-### 📱 QuickChance – Mobile App 
-**Opportunity Connector** (Under Development)
-- **Description:** A high-performance mobile platform designed to bridge the gap between job seekers and immediate gig opportunities.
-- **Tech Stack:** Flutter, Node.js, MongoDB.
+🔗 https://africandavillagerstours.com/
+
+A tourism platform designed to promote Rwanda’s cultural heritage and local travel experiences.
+
+**Technologies Used**
+
+* PHP
+* MySQL
+* JavaScript
+* SEO Optimization
+
+---
+
+### 📱 QuickChance Mobile App
+
+Mobile platform designed to connect users with quick job or opportunity alerts.
+
+**Technologies Used**
+
+* Flutter
+* Node.js
+* MongoDB
+
+Status: *Currently under development.*
+
+---
 
 ### 💰 Personal Finance Tracker (Offline)
-**Privacy-Focused Finance Tool**
-- **Description:** A mobile application for managing expenses without requiring an internet connection. Features include automated budgeting and data visualization.
-- **Tech Stack:** Flutter, Hive (Offline Database).
+
+A privacy-focused mobile application for tracking personal income and expenses offline.
+
+**Technologies Used**
+
+* Flutter
+* Hive Database
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Technical Skills
 
-### 💻 Software Development & Databases
-- **Languages & Frameworks:** ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-- **Databases:** ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+### 💻 Software Development
 
-### ⚙️ Hardware, Networking & Security
-- **Hardware Specialist:** Computer Troubleshooting, Maintenance, & Component-Level Repair.
-- **Networking & Security:** Network Architecture, Cybersecurity Basics, & **CCTV System Installation.**
-- **Electronics:** Publishing & Documenting Digital Electronics projects online.
+* PHP
+* JavaScript
+* React
+* Node.js
+* Flutter
 
-### 📈 Digital Marketing & Online Presence
-- **Channel Management:** Professional Social Media Account & YouTube/Channel Management.
-- **Content Strategy:** Digital Electronics Publishing, SEO, & Technical Content Creation.
-- **Tools:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white) ![Meta Business Suite](https://img.shields.io/badge/Meta_Business_Suite-1877F2?style=flat-square&logo=meta&logoColor=white)
+### 🗄️ Databases
+
+* MySQL
+* PostgreSQL
+* MongoDB
+
+### 🌐 Networking & Cybersecurity
+
+* Network Fundamentals
+* Cybersecurity Basics
+* Network Troubleshooting
+
+### 🖥️ IT Support & Hardware
+
+* Computer Repair & Maintenance
+* System Troubleshooting
+* CCTV Installation
+
+### 🧰 Tools
+
+* Git
+* GitHub
+* Visual Studio Code
+* Linux
+* Postman
+* Android Studio
 
 ---
 
-## 📊 Performance & Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=uwajean&show_icons=true&theme=tokyonight&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uwajean&layout=compact&theme=tokyonight&hide_border=false&langs_count=8)
+## 📊 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=uwajean\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uwajean\&layout=compact\&theme=tokyonight)
 
 ---
 
 ## 🐍 GitHub Contribution Snake
+
 ![snake gif](https://raw.githubusercontent.com/uwajean/uwayezujeanpaul/output/github-contribution-grid-snake.svg)
 
 ---
 
-## 📄 Experience
-- 🏢 **Internship at Huye Hanga Hub Innovation Center** | 2025
-- 🏢 **Internship at Ministry of Education (MINEDUC) Rwanda** | 2023
+## 📄 Professional Experience
+
+**Intern – Huye Innovation hub**
+📍 Huye, Rwanda | 2025
+
+**Intern – Ministry of Education (MINEDUC)**
+📍 Rwanda | 2023
 
 ---
 
 ## 🎓 Education
-- 🎓 **A1 in Information Technology (Software Development)**
-  - **RP Huye (IPRC Huye)** | 2022 — 2025
-- 🎓 **High School Diploma in Software Development**
-  - **Groupe Scolaire des Parents** | 2019 — 2022
+
+**Advanced Diploma in Information Technology**
+RP Huye (IPRC Huye)
+2022 – 2025
+
+**Advanced Level – Software Development**
+Groupe Scolaire des Parents(Rwanda,sourthen province,huye district)
+2019 – 2022
 
 ---
 
-⚡ **Fun Fact** I enjoy bridging the gap between hardware repair, CCTV installation, and software innovation while sharing the journey through digital content.
+⚡ **Fun Fact:**
+I enjoy combining **software development, networking, and hardware troubleshooting** to build practical and innovative technology solutions.
