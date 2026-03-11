@@ -1,11 +1,12 @@
-# Hi 👋, I'm Uwayezu Jeanpaul
+<!-- Animated Typing Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B,+I'm+Uwayezu+Jeanpaul;Full-Stack+Developer+%7C+Networking+%26+Cybersecurity+Enthusiast;IT+Support+%26+Hardware+Specialist" alt="Typing SVG"/>
+</h1>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=uwajean&color=blue)
 
-### Full-Stack Developer | Networking & Cybersecurity Enthusiast | IT Support & Hardware Specialist
-
-> 💼 **Open to Opportunities:**
-> I am currently seeking **internship or entry-level opportunities** in **Software Development, Networking, Cybersecurity, or IT Support**. I am eager to apply my technical skills, contribute to real-world projects, and continue learning emerging technologies in the IT field.
+> 💼 **Open to Opportunities:**  
+I am currently seeking **internship or entry-level opportunities** in **Software Development, Networking, Cybersecurity, or IT Support**. I am eager to apply my technical skills, contribute to real-world projects, and continue learning emerging technologies in the IT field.
 
 ---
 
@@ -173,5 +174,5 @@ Groupe Scolaire des Parents (Rwanda, Southern Province, Huye District)
 
 ---
 
-⚡ **Fun Fact:**
+⚡ **Fun Fact:**  
 I enjoy combining **software development, networking, and hardware troubleshooting** to build practical and innovative technology solutions.
